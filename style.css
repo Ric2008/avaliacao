@@ -1,9 +1,9 @@
 
 h1{
-    color:red;
+    color:rgb(161, 0, 0);
     text-align: center;
-    font-size: 30px;
+    font-size: 50px;
 }
-body{background: brown;}
+body{background: rgb(255, 117, 117);}
 h2{font-size: 60xp;}
-p{font-size: 50px;}
+p{font-size: 30px;}
