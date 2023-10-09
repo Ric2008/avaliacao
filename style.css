@@ -7,3 +7,27 @@ h1{
 body{background: rgb(255, 117, 117);}
 h2{font-size: 60xp;}
 p{font-size: 30px;}
+
+.imagem1{
+    width: 100px;
+    border: 5px solid rgb(0, 0, 0); ;
+}
+.cabecalho{
+    background-color: rgb(71, 71, 71);
+    display: flex;
+}
+.logocabecalho{
+    display: flex;
+    width: 250px;
+    margin-left: 50px;
+}
+.listacabecalho{
+    display: flex;
+    margin-left: 500px;
+}
+.item_lista_cabecalho{
+    font-size: 30px;
+    color: rgb(1, 0, 82);
+    padding-left: 40px;
+    list-style: none;
+}
